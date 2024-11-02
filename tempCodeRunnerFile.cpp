@@ -1,1 +1,1 @@
-5:sll
+write(
